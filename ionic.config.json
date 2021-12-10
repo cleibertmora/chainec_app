@@ -1,0 +1,7 @@
+{
+  "name": "ChainEc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
